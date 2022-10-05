@@ -3,5 +3,7 @@ Blue
 orange
 Purple
 Green
+Unicorn
 Yellow
 These are the colors of the Rainbow
+And the unicorn
